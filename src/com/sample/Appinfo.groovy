@@ -5,6 +5,7 @@ class AppInfo {
     String name
     int port
     String environment
+    
     AppInfo(String name,int port,String environment){
         this.name=name
         this.port=port
